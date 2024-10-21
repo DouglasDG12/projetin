@@ -3,7 +3,7 @@
 </h1>
 <br>
 
-<h2>
+<h2 align:center;>
   Projeto novo de responsividade com HTML E CSS.
 </h2>
 
@@ -12,3 +12,5 @@
 <h2>
   imagem para mobile :iphone:
 </h2>
+
+<img src="https://github.com/DouglasDG12/projetin/blob/main/img/Captura%20de%20tela%202024-10-21%20014046.png?raw=true"> 
